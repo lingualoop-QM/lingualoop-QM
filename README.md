@@ -26,3 +26,10 @@
 ## 协议许可
 
 本项目采用 [GPL v3.0 开源协议](./LICENSE)
+## 开源协议（License）
+
+本项目遵循 AGPL-3.0 开源协议，确保源代码在任何衍生作品中保持开放。
+
+- 阅读协议正文：[LICENSE_AGPL-3.0.md](./LICENSE_AGPL-3.0.md)
+- 协议封面 PDF（含时间戳与摘要）：[AGPL-3.0_License_Cover.pdf](./AGPL-3.0_License_Cover.pdf)
+- 协议说明文档：https://www.gnu.org/licenses/agpl-3.0.html
