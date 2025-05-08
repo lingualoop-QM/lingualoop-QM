@@ -12,4 +12,4 @@
 
 该 CLA 协议内容已上链存证：
 
-- IPFS CID：
+- IPFS CID: `bafybeibitts3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4`
