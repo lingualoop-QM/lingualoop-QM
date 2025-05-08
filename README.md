@@ -33,3 +33,9 @@
 - 阅读协议正文：[LICENSE_AGPL-3.0.md](./LICENSE_AGPL-3.0.md)
 - 协议封面 PDF（含时间戳与摘要）：[AGPL-3.0_License_Cover.pdf](./AGPL-3.0_License_Cover.pdf)
 - 协议说明文档：https://www.gnu.org/licenses/agpl-3.0.html
+## 协作与存证
+
+- 阅读贡献说明：[CONTRIBUTION.md](./CONTRIBUTION.md)
+- 查看贡献者许可协议：[CLA_v2.0_Agent.md](./CLA_v2.0_Agent.md)
+- 存证链接（IPFS）：  
+  https://bafybeibtits3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4.ipfs.w3s.link
