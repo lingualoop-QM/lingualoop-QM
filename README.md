@@ -1,3 +1,6 @@
+![溯元 Logo](https://bafybeibitts3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4.ipfs.w3s.link/suyuan_logo.png)
+
+
 # lingualoop-QM
 
 **LinguaLoop** 是一个开源的多语言翻译卡片协作系统，致力于构建去中心化语言知识的协作机制，并支持 IPFS 存证与 Agent 协作生成。
