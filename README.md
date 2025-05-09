@@ -1,5 +1,6 @@
+<!-- 溯元 Logo -->
 <p align="center">
-  <img src="https://bafybeibitts3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4.ipfs.w3s.link/suyuan_logo.png" alt="溯元 Logo" width="280"/>
+  <img src="suyuan_logo.png" alt="溯元 Logo" width="240"/>
 </p>
 
 # LinguaLoop-QM | 溯元计划
@@ -13,34 +14,27 @@
 ## 项目亮点 | Features
 
 - 翻译卡片生成与修订协作机制  
-  Collaborative translation card creation and editing
+  Translation card generation and correction collaboration
 
-- Agent 参与内容涌现与语义演化  
-  Agent-driven semantic emergence and content co-creation
+- 多语种卡片结构化处理  
+  Structured handling of multilingual cards
 
-- IPFS 分布式上链存证  
-  IPFS-based decentralized content verification
+- IPFS 去中心化存证支持  
+  Support for decentralized notarization via IPFS
 
-- CLA v2.0 协议保障协作者权利  
-  CLA v2.0 to secure contributor rights and traceability
-
----
-
-## 协作者协议与存证 | Contributor Agreement & IPFS
-
-本项目采用 CLA 协议管理机制，确保署名权利、内容合法性与链上可追溯性：
-
-- 协议文本：[`CLA_v2.0_Agent.md`](./CLA_v2.0_Agent.md)  
-- 封面 PDF：[`CLA_v2.0_Agent_Cover.pdf`](./CLA_v2.0_Agent_Cover.pdf)  
-- IPFS 存证链接：  
-  [`bafybeibitts3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4`](https://bafybeibitts3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4.ipfs.w3s.link/)
+- Agent 协作者追踪机制（正在开发）  
+  Agent collaborator tracking system (in development)
 
 ---
 
-## 欢迎加入 | Welcome to Collaborate
+## 协作方式 | Contribution Guide
 
-- 提交你的翻译卡片（.md/.json 格式）
-- 提出 Agent 协作建议
-- 添加新语种或语义结构模块
+请阅读 [CONTRIBUTION.md](CONTRIBUTION.md) 与贡献者协议 [CLA_v2.0_Agent.md](CLA_v2.0_Agent.md)。  
+Please read the [CONTRIBUTION.md](CONTRIBUTION.md) and Contributor License Agreement [CLA_v2.0_Agent.md](CLA_v2.0_Agent.md) before contributing.
 
-> “溯元者汇聚于此，共建语言之环。”
+---
+
+## 协议授权 | License
+
+本项目使用 [AGPL-3.0](LICENSE) 协议。  
+This project is licensed under the [AGPL-3.0](LICENSE).
