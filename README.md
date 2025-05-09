@@ -1,6 +1,5 @@
-<!-- 溯元 Logo -->
 <p align="center">
-  <img src="suyuan_logo.png" alt="溯元 Logo" width="240"/>
+  <img src="./assets/suyuan_logo.png" alt="溯元 Logo" width="300"/>
 </p>
 
 # LinguaLoop-QM | 溯元计划
@@ -14,27 +13,32 @@
 ## 项目亮点 | Features
 
 - 翻译卡片生成与修订协作机制  
-  Translation card generation and correction collaboration
-
-- 多语种卡片结构化处理  
-  Structured handling of multilingual cards
-
-- IPFS 去中心化存证支持  
-  Support for decentralized notarization via IPFS
-
-- Agent 协作者追踪机制（正在开发）  
-  Agent collaborator tracking system (in development)
+  Collaborative mechanism for generating and revising translation cards  
+- 双语内容结构支持 & 多格式兼容  
+  Bilingual content structure & multi-format compatibility  
+- 去中心化存证与 IPFS 链接追踪  
+  Decentralized verification & IPFS link tracking  
+- 可拓展的 Agent 协作框架  
+  Extensible framework for Agent-based collaboration  
 
 ---
 
 ## 协作方式 | Contribution Guide
 
-请阅读 [CONTRIBUTION.md](CONTRIBUTION.md) 与贡献者协议 [CLA_v2.0_Agent.md](CLA_v2.0_Agent.md)。  
-Please read the [CONTRIBUTION.md](CONTRIBUTION.md) and Contributor License Agreement [CLA_v2.0_Agent.md](CLA_v2.0_Agent.md) before contributing.
+欢迎通过以下方式参与：
+
+- 提交翻译卡片 / 修订建议（Issue 或 Pull Request）
+- 创建或更新语言资源（贡献词汇表 / 知识卡）
+- 协助编写 Agent 模块或接口说明文档
 
 ---
 
-## 协议授权 | License
+## 协议许可 | License
 
-本项目使用 [AGPL-3.0](LICENSE) 协议。  
-This project is licensed under the [AGPL-3.0](LICENSE).
+本项目遵循 AGPL-3.0 开源协议  
+This project is licensed under the AGPL-3.0 License.
+
+---
+
+> Designed with consciousness, named for origin.  
+> —— 溯源于众，共证未来。
