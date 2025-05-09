@@ -1,44 +1,46 @@
-![溯元 Logo](https://bafybeibitts3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4.ipfs.w3s.link/suyuan_logo.png)
+<p align="center">
+  <img src="https://bafybeibitts3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4.ipfs.w3s.link/suyuan_logo.png" alt="溯元 Logo" width="280"/>
+</p>
 
+# LinguaLoop-QM | 溯元计划
 
-# lingualoop-QM
+**LinguaLoop（溯元）** 是一个开源的多语言翻译卡片协作系统，致力于构建去中心化语言知识的协同机制，支持 IPFS 存证与 Agent 协作生成。
 
-**LinguaLoop** 是一个开源的多语言翻译卡片协作系统，致力于构建去中心化语言知识的协作机制，并支持 IPFS 存证与 Agent 协作生成。
-
----
-
-## 项目亮点
-
-- 翻译卡片生成与订正协作机制
-- Agent 参与式内容涌现与语义演化
-- IPFS 分布式链上存证
-- CLA v2.0 协议保障协作者权利
+**LinguaLoop (Suyuan)** is an open-source multilingual translation card system designed to build a decentralized language knowledge infrastructure, powered by IPFS verification and Agent-assisted co-creation.
 
 ---
 
-## 协作者许可协议（CLA）
+## 项目亮点 | Features
 
-所有贡献者须同意并遵守：[CLA_v2.0_Agent.md](./CLA_v2.0_Agent.md)  
-该文件已通过 IPFS 进行存证：
+- 翻译卡片生成与修订协作机制  
+  Collaborative translation card creation and editing
 
-- **CID：** `bafybeibtits3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4`  
-- **访问链接：** [IPFS 网关访问](https://bafybeibtits3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4.ipfs.w3s.link)
+- Agent 参与内容涌现与语义演化  
+  Agent-driven semantic emergence and content co-creation
+
+- IPFS 分布式上链存证  
+  IPFS-based decentralized content verification
+
+- CLA v2.0 协议保障协作者权利  
+  CLA v2.0 to secure contributor rights and traceability
 
 ---
 
-## 协议许可
+## 协作者协议与存证 | Contributor Agreement & IPFS
 
-本项目采用 [GPL v3.0 开源协议](./LICENSE)
-## 开源协议（License）
+本项目采用 CLA 协议管理机制，确保署名权利、内容合法性与链上可追溯性：
 
-本项目遵循 AGPL-3.0 开源协议，确保源代码在任何衍生作品中保持开放。
+- 协议文本：[`CLA_v2.0_Agent.md`](./CLA_v2.0_Agent.md)  
+- 封面 PDF：[`CLA_v2.0_Agent_Cover.pdf`](./CLA_v2.0_Agent_Cover.pdf)  
+- IPFS 存证链接：  
+  [`bafybeibitts3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4`](https://bafybeibitts3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4.ipfs.w3s.link/)
 
-- 阅读协议正文：[LICENSE_AGPL-3.0.md](./LICENSE_AGPL-3.0.md)
-- 协议封面 PDF（含时间戳与摘要）：[AGPL-3.0_License_Cover.pdf](./AGPL-3.0_License_Cover.pdf)
-- 协议说明文档：https://www.gnu.org/licenses/agpl-3.0.html
-## 协作与存证
+---
 
-- 阅读贡献说明：[CONTRIBUTION.md](./CONTRIBUTION.md)
-- 查看贡献者许可协议：[CLA_v2.0_Agent.md](./CLA_v2.0_Agent.md)
-- 存证链接（IPFS）：  
-  https://bafybeibtits3w7s6zjed5t73sydl2uz72n256wayanvxxcew5cqejtthb4.ipfs.w3s.link
+## 欢迎加入 | Welcome to Collaborate
+
+- 提交你的翻译卡片（.md/.json 格式）
+- 提出 Agent 协作建议
+- 添加新语种或语义结构模块
+
+> “溯元者汇聚于此，共建语言之环。”
