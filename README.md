@@ -1,4 +1,4 @@
-![溯元 Logo](https://raw.githubusercontent.com/lingualoop-QM/lingualoop-QM/main/assets/suyuan_logo.png.PNG)
+![溯元 Logo](https://raw.githubusercontent.com/lingualoop-QM/lingualoop-QM/main/assets/suyuan_logo.PNG)
 
 # LinguaLoop-QM | 溯元计划
 
