@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/suyuan_logo.png" width="300px" alt="溯元 Logo" />
+  <img src="./assets/suyuan_logo.PNG" width="300px" alt="溯元 Logo" />
 </div>
 
 # LinguaLoop-QM | 溯元计划
