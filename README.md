@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./assets/suyuan_logo.PNG" width="300px" alt="溯元 Logo" />
-</div>
+![溯元 Logo](https://raw.githubusercontent.com/lingualoop-QM/lingualoop-QM/main/assets/suyuan_logo.png.PNG)
 
 # LinguaLoop-QM | 溯元计划
 
@@ -13,30 +11,22 @@
 ## 项目亮点 | Features
 
 - 翻译卡片生成与修订协作机制
-- 贡献者自动署名与版本回溯
-- 支持 AI 模型语言训练语料来源
-- 基于 IPFS 的内容存证与公开检索
-- 未来将接入 Agent 协作式翻译/创作机制
+- 多语言同步支持，便于全球协作
+- IPFS 去中心化存储与版本溯源
+- 支持 AI Agent 参与生成、训练与纠错
 
 ---
 
-## 协作说明 | How to Contribute
+## 协作方式 | How to Contribute
 
-1. 阅读并同意 [《LinguaLoop 贡献者协议》](./CLA_v2.0_Agent.md)
-2. Fork 仓库，提交 Pull Request
-3. 每条贡献将自动记录并署名
-4. 可提交：
-   - 翻译卡片
-   - 语言补充建议
-   - 修订版本
-   - Agent 角色脚本与语料模板
+请参考 [CONTRIBUTION.md](CONTRIBUTION.md) 与 [CLA 协议](CLA_v2.0_Agent.md) 文件，加入协作者行列。
 
 ---
 
-## 协议 License
+## 协议许可 | License
 
 本项目采用 **[AGPL-3.0 License](./LICENSE_AGPL-3.0.md)** 协议。
 
 ---
 
-> 若图片仍无法正常加载，请确保 `assets/suyuan_logo.png` 图片已上传至正确路径，名称大小写一致。
+> 若本地路径无法正常加载 Logo，请使用 raw.githubusercontent.com 的路径形式，确保 Markdown 可预览。
